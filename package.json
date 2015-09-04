@@ -1,6 +1,6 @@
 {
   "name": "dom-contains",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Determines whether or not one HTMLElement is or contains another HTMLElement.",
   "main": "contains.js",
   "dependencies": {
