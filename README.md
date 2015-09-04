@@ -1,7 +1,7 @@
 # dom-contains
 Determines whether or not one HTMLElement is or contains another HTMLElement.
 
-This is a commonjs wrapper for [Y.DOM.contains](http://yuilibrary.com/yui/docs/api/classes/DOM.html#method_contains).
+This is a commonjs clone for [Y.DOM.contains](http://yuilibrary.com/yui/docs/api/classes/DOM.html#method_contains).
 
 ```javascript
 var contains = require('dom-contains');
